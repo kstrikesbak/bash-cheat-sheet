@@ -34,6 +34,11 @@ ___
 
 * add files to current directory 
 
+### `pwd`
+
+* Usage:`pwd`
+* What it does: prints working directory
+
 
 
 
