@@ -39,6 +39,13 @@ ___
 * Usage:`pwd`
 * What it does: prints working directory
 
+### `mkdir`
+
+* Usage: `mkdir [directory name...]`
+* What it does: Makes a directory or directories. 
+* Useful flags: 
+    * `-p`: Makes parent directories given a path.
+
 
 
 
